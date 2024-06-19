@@ -27,3 +27,6 @@ Translating Persian-Old-Cuneiform to English transliteration
 
 
 ![n2](https://github.com/Melanee-Melanee/Translating-old-Persian-cuneiform/assets/74653444/ffb1cd02-8622-42d1-8d8d-b692f37890d0)
+
+
+This repository is still under developing. For making contibutions contact me by email: melaneepython@gmail.com 
