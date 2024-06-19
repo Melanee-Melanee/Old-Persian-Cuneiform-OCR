@@ -1,6 +1,6 @@
 # The aim of this repository is creating an OCR model for Persian Old Cuneiform
 
-This repository is inspired from eBL project(Gilgamesh): https://github.com/ElectronicBabylonianLiterature/generic-documentation
+This repository is inspired from eBL project (Gilgamesh): https://github.com/ElectronicBabylonianLiterature/generic-documentation
 
 eBL has developed models for Babylonian cuneiform but I am going to develop my models for Persian Old Cuneiform. 
 
