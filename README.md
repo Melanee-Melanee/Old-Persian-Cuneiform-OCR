@@ -9,7 +9,7 @@ Explanation:
 
 3. YOLO Training: Train a YOLO model to detect characters in the dataset.
 
-4. OCR Model Training: Train a character recognition model (CNN) using TensorFlow.
+4. OCR Model Training: Train a text recognition model (CNN) to recognise characters.
 
 5. Inference: Use YOLO for character detection and the OCR model for recognition.
 
