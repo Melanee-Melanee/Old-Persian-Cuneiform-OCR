@@ -1,7 +1,8 @@
 # The aim of this repository is creating an OCR model for Persian Old Cuneiform
 
+This repository is inspired from eBL project: https://github.com/Melanee-Melanee/Electronic-Babylonian-Library-eBL-documentation
 
-Explanation:
+## Explanation:
 
 1. Dataset Preparation: Annotate images with bounding boxes around each character.
 
