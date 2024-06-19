@@ -19,8 +19,8 @@ Explanation:
 
 
 
-# Transliteration-old-Persian-cuneiform
-Translating old-Persian cuneiform to English transliteration 
+# Transliteration-Persian-Old-Cuneiform
+Translating Persian-Old-Cuneiform to English transliteration 
 
 
 ![n1](https://github.com/Melanee-Melanee/Translating-old-Persian-cuneiform/assets/74653444/8b1bd31a-c261-4fa5-90fc-272378eee158)
