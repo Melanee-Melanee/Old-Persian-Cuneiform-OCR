@@ -18,7 +18,11 @@ eBL has developed models for Babylonian cuneiform but I am going to develop my m
 
 6. Visualization: Display detected and recognized text on the images.
 
+# Primary data
 
+primary data is given from: https://www.kaggle.com/datasets/hosseinmousavi/achaemenid-inscription-ocr
+
+Plese notice that I am at the begining of the project and I will prepare a more high qulity dataset (real images) in the future. 
 
 
 
