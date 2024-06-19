@@ -2,6 +2,8 @@
 
 This repository is inspired from eBL project: https://github.com/ElectronicBabylonianLiterature/generic-documentation
 
+eBL has developed models for Babylonian cuneiform but I am goint to develop my models for Persian Old Cuneiform language. 
+
 ## Explanation:
 
 1. Dataset Preparation: Annotate images with bounding boxes around each character.
