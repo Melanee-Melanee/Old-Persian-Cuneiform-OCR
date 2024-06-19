@@ -2,7 +2,7 @@
 
 This repository is inspired from eBL project: https://github.com/ElectronicBabylonianLiterature/generic-documentation
 
-eBL has developed models for Babylonian cuneiform but I am goint to develop my models for Persian Old Cuneiform language. 
+eBL has developed models for Babylonian cuneiform but I am going to develop my models for Persian Old Cuneiform. 
 
 ## Explanation:
 
