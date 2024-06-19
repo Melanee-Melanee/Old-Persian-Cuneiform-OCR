@@ -4,7 +4,7 @@ This repository is inspired from eBL project: https://github.com/ElectronicBabyl
 
 eBL has developed models for Babylonian cuneiform but I am going to develop my models for Persian Old Cuneiform. 
 
-## Explanation:
+## Steps:
 
 1. Dataset Preparation: Annotate images with bounding boxes around each character.
 
