@@ -31,6 +31,7 @@ Please open this notebook and work on Google Colab: https://github.com/Melanee-M
 # Transliteration-Persian-Old-Cuneiform
 Translating Persian-Old-Cuneiform to English transliteration 
 
+All letters are illustrated below:
 
 ![n1](https://github.com/Melanee-Melanee/Translating-old-Persian-cuneiform/assets/74653444/8b1bd31a-c261-4fa5-90fc-272378eee158)
 
