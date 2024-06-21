@@ -20,19 +20,19 @@ eBL has developed models for Babylonian cuneiform but I am going to develop my m
 
 6. Visualization: Display detected and recognized text on the images.
 
-# Primary data
+## Primary data
 
 Primary data is taken from: https://www.kaggle.com/datasets/hosseinmousavi/achaemenid-inscription-ocr
 
 Please notice that I am at the beginning of this project and I will prepare a more high qulity dataset (real images) in the future. 
 
-# Main notebook
+## Main notebook
 
 Please open this notebook and work on Google Colab: https://github.com/Melanee-Melanee/Persian-Old-Cuneiform/blob/main/Persian_Old_Cuneiform_OCR.ipynb
 
 
 
-# Stage 2: Matching broken tablets(fragments)
+# Stage 2: Matching broken tablets(fragments) by NLP
 
 ![Gilgamesh poem (copy)](https://github.com/Melanee-Melanee/Persian-Old-Cuneiform/assets/74653444/750a05a7-83c2-4a8d-b288-43020b7536d4)
 
