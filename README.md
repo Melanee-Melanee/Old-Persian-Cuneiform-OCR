@@ -36,9 +36,6 @@ Please open this notebook and work on Google Colab: https://github.com/Melanee-M
 
 ![Gilgamesh poem (copy)](https://github.com/Melanee-Melanee/Persian-Old-Cuneiform/assets/74653444/750a05a7-83c2-4a8d-b288-43020b7536d4)
 
-![Text Puzzle Gilgamesh](https://github.com/Melanee-Melanee/Persian-Old-Cuneiform/assets/74653444/3c7cce30-08dd-4c3c-a047-6014a7a86fc0)
-
-
 
 This project leverages Optical Character Recognition (OCR) and Natural Language Processing (NLP) technologies to read and match the texts. Specifically, they use OCR to convert the cuneiform signs from images into machine-readable text. [Prof Enrique Jiménez’s](https://www.assyriologie.uni-muenchen.de/personen/professoren/jimenez/index.html) team then apply [algorithms](https://github.com/ElectronicBabylonianLiterature/ngram-matcher) to detect and match overlapping segments of different manuscripts, aiding in the reconstruction of fragmented texts.
 
