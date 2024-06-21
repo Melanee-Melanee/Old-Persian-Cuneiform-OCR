@@ -40,3 +40,5 @@ All letters are illustrated below:
 
 
 This repository is still under developing. For contributing contact me by email: melaneepython@gmail.com 
+
+Notice: To create pull requests for this repository please choose branches except "main" (issue, refactor and feature).
