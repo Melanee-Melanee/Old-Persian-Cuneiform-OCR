@@ -40,7 +40,7 @@ Please open this notebook and work on Google Colab: https://github.com/Melanee-M
 
 
 
-This project leverages Optical Character Recognition (OCR) and Natural Language Processing (NLP) technologies to read and match the texts. Specifically, they use OCR to convert the cuneiform signs from images into machine-readable text. Prof Enrique Jiménez’s team then apply [algorithms](https://github.com/ElectronicBabylonianLiterature/ngram-matcher) to detect and match overlapping segments of different manuscripts, aiding in the reconstruction of fragmented texts.
+This project leverages Optical Character Recognition (OCR) and Natural Language Processing (NLP) technologies to read and match the texts. Specifically, they use OCR to convert the cuneiform signs from images into machine-readable text. [Prof Enrique Jiménez’s](https://www.assyriologie.uni-muenchen.de/personen/professoren/jimenez/index.html) team then apply [algorithms](https://github.com/ElectronicBabylonianLiterature/ngram-matcher) to detect and match overlapping segments of different manuscripts, aiding in the reconstruction of fragmented texts.
 
 For more the details, please check my new article on [Medium](https://levelup.gitconnected.com/the-electronic-babylonian-library-ebl-gilgamesh-project-f883e0ff068f).
 
