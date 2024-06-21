@@ -37,7 +37,7 @@ Please open this notebook and work on Google Colab: https://github.com/Melanee-M
 ![Gilgamesh poem (copy)](https://github.com/Melanee-Melanee/Persian-Old-Cuneiform/assets/74653444/750a05a7-83c2-4a8d-b288-43020b7536d4)
 (Photo is one of the matched Gilgamesh tablets [Ref](https://www.ebl.lmu.de/fragmentarium/K.2756.C?tab=photo))
 
-This project leverages Optical Character Recognition (OCR) and Natural Language Processing (NLP) technologies to read and match the texts. Specifically, I use OCR to convert the cuneiform signs from images into machine-readable text. [Prof Enrique Jiménez’s](https://www.assyriologie.uni-muenchen.de/personen/professoren/jimenez/index.html) team then apply [algorithms](https://github.com/ElectronicBabylonianLiterature/ngram-matcher) to detect and match overlapping segments of different manuscripts, aiding in the reconstruction of fragmented texts.
+This project leverages Optical Character Recognition (OCR) and Natural Language Processing (NLP) technologies to read and match the texts. Specifically, I use OCR to convert the cuneiform signs from images into machine-readable text. Then I will use [Prof Enrique Jiménez’s](https://www.assyriologie.uni-muenchen.de/personen/professoren/jimenez/index.html) project to apply [algorithms](https://github.com/ElectronicBabylonianLiterature/ngram-matcher) to detect and match segments of different tablets, aiding in the reconstruction of fragmented texts.
 
 For more the details, please check my new article on [Medium](https://levelup.gitconnected.com/the-electronic-babylonian-library-ebl-gilgamesh-project-f883e0ff068f) and [eBL documentation](https://github.com/ElectronicBabylonianLiterature/generic-documentation). 
 
