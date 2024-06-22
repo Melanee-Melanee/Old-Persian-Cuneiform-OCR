@@ -42,7 +42,7 @@ Please open this notebook and work on Google Colab: https://github.com/Melanee-M
 
 ![old-persian](https://github.com/Melanee-Melanee/Persian-Old-Cuneiform-OCR/assets/74653444/986c2b5e-6d5e-4828-89be-4ba7d9050bc4)
 
-(Photo is from Susa, Apadana, [Ref](https://www.livius.org/pictures/iran/susa/susa-apadana/susa-dsf-old-persian/))
+(Photo is from Apadana Castle Shush, [Ref](https://www.livius.org/pictures/iran/susa/susa-apadana/susa-dsf-old-persian/))
 
 
 This project leverages Optical Character Recognition (OCR) and Natural Language Processing (NLP) technologies to read and match the texts. Specifically, I use OCR to convert the cuneiform signs from images into machine-readable text. Then I will use [Prof Enrique Jiménez’s](https://www.assyriologie.uni-muenchen.de/personen/professoren/jimenez/index.html) project to apply [algorithms](https://github.com/ElectronicBabylonianLiterature/ngram-matcher) to detect and match segments of different tablets, aiding in the reconstruction of fragmented texts.
