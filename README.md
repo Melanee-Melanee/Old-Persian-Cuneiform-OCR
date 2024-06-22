@@ -26,6 +26,11 @@ Primary data is taken from: https://www.kaggle.com/datasets/hosseinmousavi/achae
 
 Please notice that I am at the beginning of this project and I will prepare a more high qulity dataset (real images) in the future. 
 
+
+## Annotation
+
+Use annotation online tools like [CVAT](https://www.cvat.ai/) or [labelImg gitHub](https://github.com/HumanSignal/labelImg).
+
 ## Main notebook
 
 Please open this notebook and work on Google Colab: https://github.com/Melanee-Melanee/Persian-Old-Cuneiform/blob/main/Persian_Old_Cuneiform_OCR.ipynb
