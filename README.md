@@ -1,7 +1,7 @@
 # The aim of this repository is creating an OCR model for Persian Old Cuneiform to match broken tablets (fragments)
 
 This repository is inspired from [eBL project](https://github.com/ElectronicBabylonianLiterature) and is a part of [
-Electronic Persian Old Literature](https://github.com/Electronic-Persian-Old-Library) organization.
+Electronic Persian Old Library](https://github.com/Electronic-Persian-Old-Library) organization.
 
 eBL has developed models for Babylonian cuneiform but I am going to develop my models for Persian Old cuneiform. 
 
