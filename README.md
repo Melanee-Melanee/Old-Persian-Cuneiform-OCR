@@ -1,4 +1,4 @@
-# The aim of this repository is creating an OCR model for Persian Old Cuneiform to match broken tablets (fragments)
+# The aim of this repository is creating an OCR model for Persian Old Cuneiform to match broken tablets or inscriptions
 
 This repository is inspired from [eBL project](https://github.com/ElectronicBabylonianLiterature) and is a part of [
 Electronic Persian Old Library](https://github.com/Electronic-Persian-Old-Library) organization.
@@ -38,14 +38,14 @@ Please open this notebook and work on Google Colab: https://github.com/Melanee-M
 
 
 
-# Stage 2: Matching broken tablets(fragments) by NLP
+# Stage 2: Matching broken tablets or inscriptions by NLP
 
 ![old-persian](https://github.com/Melanee-Melanee/Persian-Old-Cuneiform-OCR/assets/74653444/986c2b5e-6d5e-4828-89be-4ba7d9050bc4)
 
 (Photo is from Apadana Castle Shush, [Ref](https://www.livius.org/pictures/iran/susa/susa-apadana/susa-dsf-old-persian/))
 
 
-This project leverages Optical Character Recognition (OCR) and Natural Language Processing (NLP) technologies to read and match the texts. Specifically, I use OCR to convert the cuneiform signs from images into machine-readable text. Then I will use [Prof Enrique Jiménez’s](https://www.assyriologie.uni-muenchen.de/personen/professoren/jimenez/index.html) project to apply [algorithms](https://github.com/ElectronicBabylonianLiterature/ngram-matcher) to detect and match segments of different tablets, aiding in the reconstruction of fragmented texts.
+This project leverages Optical Character Recognition (OCR) and Natural Language Processing (NLP) technologies to read and match the texts. Specifically, I use OCR to convert the cuneiform signs from images into machine-readable text. Then I will use [Prof Enrique Jiménez’s](https://www.assyriologie.uni-muenchen.de/personen/professoren/jimenez/index.html) project to apply [algorithms](https://github.com/ElectronicBabylonianLiterature/ngram-matcher) to detect and match segments of different tablets or inscriptions, aiding in the reconstruction of fragmented texts.
 
 For more the details, please check my new article on [Medium](https://levelup.gitconnected.com/the-electronic-babylonian-library-ebl-gilgamesh-project-f883e0ff068f) and [eBL documentation](https://github.com/ElectronicBabylonianLiterature/generic-documentation). 
 
