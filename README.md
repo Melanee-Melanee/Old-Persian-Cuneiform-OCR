@@ -34,7 +34,7 @@ Use annotation online tools like [CVAT](https://www.cvat.ai/) or [labelImg gitHu
 
 ## Main notebook
 
-Please open this notebook and work on Google Colab: https://github.com/Melanee-Melanee/Persian-Old-Cuneiform/blob/main/Persian_Old_Cuneiform_OCR.ipynb
+Please open this notebook and work on Google Colab: https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Persian_Old_Cuneiform_OCR.ipynb
 
 
 
