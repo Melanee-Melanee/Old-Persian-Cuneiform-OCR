@@ -1,4 +1,4 @@
-# The aim of this repository is creating an OCR model for Old Persian Cuneiform to match broken tablets or inscriptions
+# The aim of this repository is creating an OCR model (convert image to text) for Old Persian Cuneiform to match broken tablets or inscriptions
 
 This repository is inspired from [eBL project](https://github.com/ElectronicBabylonianLiterature) and is a part of [
 Electronic Old Persian Library](https://github.com/Electronic-Persian-Old-Library) organization.
