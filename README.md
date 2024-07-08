@@ -21,6 +21,10 @@ eBL has developed models for Babylonian cuneiform but I am going to develop my m
 
 6. Visualization: Display detected and recognized text on the images.
 
+
+![Screenshot from 2024-07-08 17-13-24](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/assets/74653444/5f82f3d7-5f2c-4094-8c10-bdb755f4fddd)
+
+
 ## Primary data
 
 Primary data is taken from: https://www.kaggle.com/datasets/hosseinmousavi/achaemenid-inscription-ocr
