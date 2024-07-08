@@ -13,13 +13,13 @@ eBL has developed models for Babylonian cuneiform but I am going to develop my m
 
 2. Environment Setup: Install necessary libraries and import them.
 
-3. YOLO Training: Train a YOLO model to detect characters in the dataset.
+3. Text detection: Train a YOLO model to detect characters in the dataset.
 
-4. OCR Model Training: Train a text recognition model (CNN) to recognise characters.
+4. Text recognition: Train a CNN model to recognise characters.
 
-5. Inference: Use YOLO for character detection and the OCR model for recognition.
+5. Inference: Use YOLO for character detection and the CNN model for recognition on the custom image. 
 
-6. Visualization: Display detected and recognized text on the images.
+6. Visualization: Display detected and recognized text on the custom image.
 
 
 ![Screenshot from 2024-07-08 17-13-24](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/assets/74653444/5f82f3d7-5f2c-4094-8c10-bdb755f4fddd)
