@@ -75,4 +75,8 @@ Notice: To create pull requests for this repository please choose branches excep
 
 https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Tesseract_OCR.ipynb
 
+This pre-trained OCR model converts Old Persian cuneiform to English transcription and is taken from:
+
+https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
+
 
