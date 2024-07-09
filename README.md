@@ -31,6 +31,12 @@ Primary data is taken from: https://www.kaggle.com/datasets/hosseinmousavi/achae
 
 Please notice that I am at the beginning of this project and I will prepare a more high qulity dataset (real images) in the future. 
 
+## Google drive link
+
+The project directories are accessible on this google drive link:
+
+https://drive.google.com/drive/folders/1ZirD_a_6QMnrCwdlmt2i78TLjcUZid66?usp=sharing
+
 
 ## Annotation
 
