@@ -54,7 +54,7 @@ https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Old_Persi
 
 
 
-# pre-trained OCR model by tesseract:
+## pre-trained OCR model by tesseract:
 
 https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Tesseract_OCR.ipynb
 
@@ -62,7 +62,7 @@ This pre-trained OCR model converts Old Persian cuneiform to English transcripti
 
 https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
 
-# Notice
+## Notice
 
 This repository is still under developing. For contributing contact me by email: melaneepython@gmail.com 
 
