@@ -71,8 +71,8 @@ This repository is still under developing. For contributing contact me by email:
 Notice: To create pull requests for this repository please choose branches except "main" (issue, refactor and feature).
 
 
+# pre-trained OCR model by tesseract:
 
-
-
+https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Tesseract_OCR.ipynb
 
 
