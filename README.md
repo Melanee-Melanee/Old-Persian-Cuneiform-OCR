@@ -5,6 +5,10 @@ Electronic Old Persian Library](https://github.com/Electronic-Persian-Old-Librar
 
 eBL has developed models for Babylonian cuneiform but I am going to develop my models for Old Persian cuneiform. 
 
+
+## Melanee: This repository is still under developing and I have not developed an OCR model yet!
+
+
 # Stage 1 : Developing OCR model
 
 ## Steps:
