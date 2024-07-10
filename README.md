@@ -88,7 +88,7 @@ uga ;abdy ;dmam ;dhyaum ;ma
 
 ;ajM iya
 
-At the next step, you can translate this output by Chat-GPT:
+## At the next step, you can translate this output by Chat-GPT:
 
 
 ![old persian translation by chatgpt](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/assets/74653444/a6bb5252-ec6d-4dda-8ce8-7d792e656e7c)
