@@ -56,11 +56,37 @@ https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Old_Persi
 
 ## pre-trained OCR model by tesseract:
 
-https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Tesseract_OCR.ipynb
+https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Tesseract_Old_Persian_OCR.ipynb
 
-This pre-trained OCR model converts Old Persian cuneiform to English transcription and is taken from:
+This pre-trained OCR model converts Old Persian cuneiform to English transcription and is taken from [Dr Mousavi](https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
+).
 
-https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
+
+An example:
+
+Input:
+
+
+![d1](https://github.com/Electronic-Old-Persian-Library/Old-Persian-Cuneiform-OCR/assets/74653444/b25f94bb-9ee4-491e-9ea1-9b6e2c4451be)
+
+Output:
+
+Zatiy ; dalyvu S ; xSay
+
+Zdy mna;aul bpmma;u stam;
+
+blT uv; Nnda ; VdZdbiS ; bgd
+
+bdS;uta;dmam;dhyaum;aul
+
+mzda ; paTuv ; Qca;hd bay
+
+a;Qca ; QuSdyala ; Nnca; dl
+
+uga ;abdy ;dmam ;dhyaum ;ma
+
+;ajM iya
+
 
 ## Notice
 
