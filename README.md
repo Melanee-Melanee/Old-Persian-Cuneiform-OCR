@@ -66,8 +66,9 @@ An example:
 
 Input:
 
+![d1](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/assets/74653444/c5254f90-0fe7-4802-908c-c4cd184a4043)
 
-![d1](https://github.com/Electronic-Old-Persian-Library/Old-Persian-Cuneiform-OCR/assets/74653444/b25f94bb-9ee4-491e-9ea1-9b6e2c4451be)
+
 
 Output:
 
