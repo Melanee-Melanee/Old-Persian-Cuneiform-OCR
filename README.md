@@ -62,7 +62,7 @@ This pre-trained OCR model converts Old Persian cuneiform to English transcripti
 ).
 
 
-An example:
+An example: Last 12 lines of the great Darius's inscription in Persepolis:
 
 Input:
 
