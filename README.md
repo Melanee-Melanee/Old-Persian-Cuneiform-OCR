@@ -66,32 +66,35 @@ An example:
 
 Input:
 
-![d1](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/assets/74653444/c5254f90-0fe7-4802-908c-c4cd184a4043)
+![darius2](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/assets/74653444/fc8f2a4c-b8b4-4b46-97e3-c87d506fd6fd)
 
 
 
 Output:
 
-Zatiy ; dalyvu S ; xSay
+Zatiy ; daryvuS ; xSayZiy;
 
-Zdy mna;aul bpmma;u stam;
+mna;aurmzda;upstam; blauv;
 
-blT uv; Nnda ; VdZdbiS ; bgd
+hda ; ViZibiS ; bgibiS ; uta;
 
-bdS;uta;dmam;dhyaum;aul
+imam;dhyaum;aulmzda;
 
-mzda ; paTuv ; Qca;hd bay
+paTuv;hca;hinaya; hca;
 
-a;Qca ; QuSdyala ; Nnca; dl
+QuSiyala ; hca;druga;abiy;
 
-uga ;abdy ;dmam ;dhyaum ;ma
+imam ;dhyaum;ma; ajMiya; ait;
 
-;ajM iya
+aim ;yanm;jDiyaMiy;
 
-## At the next step, you can translate that output by Chat-GPT:
+aitmiy ; ddaTuv
+
+## At the next step, you can translate that output to modern Persian by [Chat-GPT](https://chatgpt.com/):
 
 
-![old persian translation by chatgpt](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/assets/74653444/a6bb5252-ec6d-4dda-8ce8-7d792e656e7c)
+![old persian translation by ai](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/assets/74653444/5da72b24-e3b4-4f67-ab9c-4053dc549e84)
+
 
 
 
