@@ -95,8 +95,16 @@ aitmiy ; ddaTuv
 ## At the next step, you can translate that Old Persian transcription to modern Persian by [Chat-GPT](https://chatgpt.com/):
 
 
-![old persian translation by ai](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/assets/74653444/5da72b24-e3b4-4f67-ab9c-4053dc549e84)
 
+این منم داریوش شاهنشاه؛
+به لطف اهورامزدا، من این را بنا کردم؛
+من این امپراتوری را بنیان نهادم و آن را نیرومند ساختم.
+باشد که اهورامزدا من و پادشاهی مرا محافظت کند؛
+باشد که برای همیشه پایدار بماند؛
+و باشد که از دروغ در امان باشد؛
+این است آنچه من انجام دادم؛
+
+این است آنچه من می‌گویم.
 
 
 
