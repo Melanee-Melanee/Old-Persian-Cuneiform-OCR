@@ -62,7 +62,9 @@ This [tesseract](https://github.com/tesseract-ocr/tesseract) pre-trained OCR mod
 ).
 
 
-An example: Last 12 lines of the great Darius's inscription in Persepolis:
+An example: 
+
+The ast 12 lines of the great Darius's inscription in Persepolis, [DPd inscription](https://www.livius.org/sources/content/achaemenid-royal-inscriptions/dpd/):
 
 Input:
 
