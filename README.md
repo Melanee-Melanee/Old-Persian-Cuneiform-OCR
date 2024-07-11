@@ -58,7 +58,7 @@ https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Old_Persi
 
 https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Tesseract_Old_Persian_OCR.ipynb
 
-This pre-trained OCR model converts Old Persian cuneiform to English transcription and is developed by [S. Muhammad Hossein Mousavi](https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
+This [tesseract](https://github.com/tesseract-ocr/tesseract) pre-trained OCR model converts Old Persian cuneiform to English transcription and is developed by [S. Muhammad Hossein Mousavi](https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
 ).
 
 
@@ -90,7 +90,7 @@ aim ;yanm;jDiyaMiy;
 
 aitmiy ; ddaTuv
 
-## At the next step, you can translate that output to modern Persian by [Chat-GPT](https://chatgpt.com/):
+## At the next step, you can translate that Old Persian transcription to modern Persian by [Chat-GPT](https://chatgpt.com/):
 
 
 ![old persian translation by ai](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/assets/74653444/5da72b24-e3b4-4f67-ab9c-4053dc549e84)
