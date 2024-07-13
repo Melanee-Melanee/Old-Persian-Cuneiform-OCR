@@ -1,4 +1,4 @@
-# The aim of this repository is creating an OCR model (convert image to text) for Old Persian Cuneiform 
+## The aim of this repository is creating an OCR model (convert image to text) for Old Persian Cuneiform 
 
 This repository is inspired from [eBL project](https://github.com/ElectronicBabylonianLiterature) and is a part of [
 Electronic Old Persian Library](https://github.com/Electronic-Persian-Old-Library) organization.
@@ -33,6 +33,11 @@ eBL has developed models for Babylonian cuneiform but I am going to develop my m
 Primary data is taken from: https://www.kaggle.com/datasets/hosseinmousavi/achaemenid-inscription-ocr
 
 Please notice that I am at the beginning of this project and I will prepare a more high qulity dataset (real images) in the future. 
+
+
+## Pre-processing
+
+I did not use any pre-processing for the image dataset yet! I will do in the future. 
 
 ## Google drive link
 
