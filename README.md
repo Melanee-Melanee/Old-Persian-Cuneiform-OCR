@@ -63,6 +63,8 @@ https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Old_Persi
 
 https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Tesseract_Old_Persian_OCR.ipynb
 
+Please replace "myLang.traineddata" file in this directory: `/usr/share/tesseract-ocr/4.00/tessdata`
+
 This tesseract pre-trained OCR model deciphers Old Persian cuneiform to English transcription and is developed by [S. Muhammad Hossein Mousavi](https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
 ). [Tesseract](https://github.com/tesseract-ocr/tesseract) is one of the most powerful OCR models in the world.
 
