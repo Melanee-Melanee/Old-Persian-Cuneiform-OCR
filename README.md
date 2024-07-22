@@ -93,6 +93,6 @@ aitmiy ; ddaTuv
 
 This repository is still under developing. For contributing contact me by email: melaneepython@gmail.com 
 
-To create pull requests for this repository please choose branches except "main" (issue, refactor and feature).
+To create pull requests for this repository please choose just these branches: issue, refactor and feature.
 
 
