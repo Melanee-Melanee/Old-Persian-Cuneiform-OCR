@@ -6,16 +6,31 @@ Electronic Old Persian Library](https://github.com/Electronic-Old-Persian-Librar
 eBL has developed models for Babylonian cuneiform but I am going to develop my models for Old Persian cuneiform. 
 
 
-## Melanee: This repository is still under developing.
+## 3 OCR models are developed in this repository:
+- ``` yolo_cnn_old_persian ```
+- ``` tessearct_old_persian ```
+- ``` easyocr_old_persian ```
+## Current status of these 3 OCR models:
+- ``` yolo_cnn_old_persian ``` : is not completed yet.
+-  ``` tessearct_old_persian ``` is completed.
+-  ``` easyocr_old_persian ``` is completed.
+
+## easyocr_old_persian
+
+Trainer notebook:
+
+https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/easyocr_old_persian/trainer_easyocr_old_persian.ipynb
+
+Testing saved model:
+
+https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/easyocr_old_persian/model_easyocr.ipynb
 
 
 
 
 
 
-
-
-## pre-trained OCR model by tesseract:
+## tessearct_old_persian:
 
 https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Tesseract_Old_Persian_OCR.ipynb
 
