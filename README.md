@@ -18,6 +18,7 @@ eBL has developed models for Babylonian cuneiform but I am going to develop my m
 ## easyocr_old_persian
 
 This model is developed based on [EasyOCR](https://github.com/JaidedAI/EasyOCR/blob/master/custom_model.md) repository for a custum model. 
+If you see any error please check [issues](https://github.com/JaidedAI/EasyOCR/issues)
 
 Trainer notebook:
 
