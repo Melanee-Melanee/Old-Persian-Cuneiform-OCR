@@ -30,6 +30,17 @@ Using saved model:
 
 https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/easyocr_old_persian/model_easyocr.ipynb
 
+To use saved model please create the root of your machine like below structure and replace ```custum_example.pth```, ```custom_example.py``` and ```custom_example.yaml``` files there:
+
+/root/
+
+     /EasyOCR/
+           /model/
+               custum_example.pth
+           /user_network/
+               custom_example.py
+               custom_example.yaml
+
 
 
 ## tessearct_old_persian:
