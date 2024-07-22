@@ -1,10 +1,3 @@
-## The aim of this repository is creating an OCR model (convert image to text) for Old Persian Cuneiform 
-
-This repository is inspired from [eBL project](https://github.com/ElectronicBabylonianLiterature) and is a part of [
-Electronic Old Persian Library](https://github.com/Electronic-Old-Persian-Library) organization.
-
-eBL has developed models for Babylonian cuneiform but I am going to develop my models for Old Persian cuneiform. 
-
 
 ## Melanee: This repository is still under developing.
 
@@ -54,4 +47,4 @@ Use annotation online tools like [CVAT](https://www.cvat.ai/) or [labelImg gitHu
 
 Please open this notebook and work on Google Colab: 
 
-https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Old_Persian_Cuneiform_OCR.ipynb
+https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/yolo_cnn_old_persian/Old_Persian_Cuneiform_OCR.ipynb
