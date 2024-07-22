@@ -13,7 +13,7 @@ eBL has developed models for Babylonian cuneiform but I am going to develop my m
 ## Current status of these 3 OCR models:
 - ``` yolo_cnn_old_persian ``` : is not completed yet.
 -  ``` tessearct_old_persian ``` is completed.
--  ``` easyocr_old_persian ``` is completed.
+-  ``` easyocr_old_persian ``` is completed but needs more optimization.
 
 ## easyocr_old_persian
 
