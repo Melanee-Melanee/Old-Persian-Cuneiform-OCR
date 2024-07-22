@@ -21,7 +21,7 @@ Trainer notebook:
 
 https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/easyocr_old_persian/trainer_easyocr_old_persian.ipynb
 
-Testing saved model:
+Using saved model:
 
 https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/easyocr_old_persian/model_easyocr.ipynb
 
