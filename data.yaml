@@ -1,5 +1,0 @@
-train: /content/drive/MyDrive/Persiancuneiform1/persiancuneiformYOLOv8-1/data/train/images
-val: /content/drive/MyDrive/Persiancuneiform1/persiancuneiformYOLOv8-1/data/valid/images
-
-nc: 34
-names: ['𐎠', '𐎲', '𐎨', '𐎭', '𐎮', '𐎯', '𐎳', '𐎥', '𐎦', '𐎡', '𐎩', '𐎪', '𐎣', '𐏐', '𐎤', '𐎼', '𐎶', '𐎷', '𐎴', '𐎵', '𐎱', '𐎽', '𐏁', '𐎫', '𐎬', '𐎢', '𐎺', '𐎻', '𐎧', '𐎹', '𐏀', '𐏃', '𐎰', '𐎿']
