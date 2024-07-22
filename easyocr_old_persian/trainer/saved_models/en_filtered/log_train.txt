@@ -1,0 +1,18 @@
+[20/30] Train loss: 17.13128, Valid loss: 10.33011, Elapsed_time: 30.33793
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+79203 REFLOATED           |                           | 0.0000	False
+Navassa {Mango}           |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[20/30] Train loss: 15.94893, Valid loss: 4.64690, Elapsed_time: 26.74388
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Geometric ! functioned Camino |                           | 0.0000	False
+Kilbride + HERMITAGE +    |                           | 0.0108	False
+--------------------------------------------------------------------------------
