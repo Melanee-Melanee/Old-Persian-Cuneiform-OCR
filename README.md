@@ -6,7 +6,7 @@ Electronic Old Persian Library](https://github.com/Electronic-Old-Persian-Librar
 eBL has developed models for Babylonian cuneiform but I am going to develop my models for Old Persian cuneiform. 
 
 
-## 3 OCR models are developed in this repository:
+## Three OCR models are developed in this repository:
 - ``` yolo_cnn_old_persian ```
 - ``` tessearct_old_persian ```
 - ``` easyocr_old_persian ```
