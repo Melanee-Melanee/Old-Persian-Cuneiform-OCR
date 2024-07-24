@@ -15,7 +15,7 @@ eBL has developed models for Babylonian cuneiform but I am going to develop my m
 -  ``` tessearct_old_persian ``` is completed.
 -  ``` easyocr_old_persian ``` is completed but needs more optimization and real data.
 
-Melanee: Since I was looking for an OCR model for the Old Persian language, I have not implemented image pre-processing for my models yet and my models work on just black and white images. You can use [custom images](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/tree/master/other/custom%20images) to use my OCR models.
+Melanee: Since I was looking for an OCR model for Old Persian language, I have not implemented image pre-processing for my models yet and they work on just black and white images. You can use [custom images](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/tree/master/other/custom%20images) to use my OCR models.
 
 ## easyocr_old_persian
 
