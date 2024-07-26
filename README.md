@@ -83,7 +83,10 @@ aim ;yanm;jDiyaMiy;
 
 aitmiy ; ddaTuv
 
-## At the next step, you can translate that Old Persian transcription to modern Persian by [Chat-GPT](https://chatgpt.com/):
+## At the next step, you can translate that Old Persian transcription to modern languages by [Chat-GPT](https://chatgpt.com/):
+
+Translate to Modern Persian:
+
 
 
 
@@ -96,6 +99,11 @@ aitmiy ; ddaTuv
 این است آنچه من انجام دادم؛
 
 این است آنچه من می‌گویم.
+
+Translate to Modern English:
+
+“This is me, Dariush king; By the grace of Ahura Mazda, I have built this; I founded this empire and made it strong. May Ahuramazda protect me and my kingdom; may it last forever; and it would be safe from lies; that is what I did;
+That is what I am saying.”
 
 
 
