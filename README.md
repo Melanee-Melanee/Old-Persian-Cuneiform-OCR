@@ -105,7 +105,9 @@ Translate to Modern English:
 “This is me, Dariush king; By the grace of Ahura Mazda, I have built this; I founded this empire and made it strong. May Ahuramazda protect me and my kingdom; may it last forever; and it would be safe from lies; that is what I did;
 That is what I am saying.”
 
+## Article
 
+I wrote an [article](https://www.researchgate.net/publication/382528886_Translating_Old_Persian_cuneiform_by_artificial_intelligence_AI) as a tiny report for what I have done for this project till now.
 
 ## Notice
 
