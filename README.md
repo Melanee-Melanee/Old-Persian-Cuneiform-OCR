@@ -65,23 +65,23 @@ Input:
 
 Output:
 
-Zatiy ; daryvuS ; xSayZiy;
+Zittiy ; iaryvuS ; xrSayZiy;
 
-mna;aurmzda;upstam; blauv;
+mnc;aurmzia;upstam; rlauv;
 
-hda ; ViZibiS ; bgibiS ; uta;
+hia ; ViZiriS ; rgiriS ; uta;
 
-imam;dhyaum;aulmzda;
+im am ; i h yaum ; au lm z i a ;
 
-paTuv;hca;hinaya; hca;
+pitTucs;hca;hinaya; hca;
 
-QuSiyala ; hca;druga;abiy;
+QuSiyala ; hca;iruga;ariy;
 
-imam ;dhyaum;ma; ajMiya; ait;
+imam ;ihyaum;ma; ajMiya; ait;
 
 aim ;yanm;jDiyaMiy;
 
-aitmiy ; ddaTuv
+aitmiy ; iiaTuv
 
 ## At the next step, you can translate that Old Persian transcription to modern languages by [Chat-GPT](https://chatgpt.com/):
 
