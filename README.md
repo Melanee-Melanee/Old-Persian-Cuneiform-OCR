@@ -116,3 +116,8 @@ This repository is still under developing. For contributing contact me by email:
 To create pull requests for this repository please choose just these branches: issue, refactor and feature.
 
 
+## LICENSE
+This repository is under ```CC-BY-NC``` license and any commercial use is prohibited. 
+
+
+
