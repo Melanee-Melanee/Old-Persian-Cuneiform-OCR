@@ -117,7 +117,7 @@ To create pull requests for this repository please choose just these branches: i
 
 
 ## LICENSE
-This repository is under ```CC-BY-NC``` license and any commercial use is prohibited. 
+This repository is under [CC-BY-NC](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/LICENSE-CC-BY-NC) license and any commercial use is prohibited. 
 
 
 
