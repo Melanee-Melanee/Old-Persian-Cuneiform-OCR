@@ -20,7 +20,7 @@ Melanee: Since I was looking for an OCR model for Old Persian language, I have n
 ## easyocr_old_persian
 
 This model is still under developing and is based on [EasyOCR](https://github.com/JaidedAI/EasyOCR/blob/master/custom_model.md) repository for a custum model. 
-If you see any error please check [issues](https://github.com/JaidedAI/EasyOCR/issues)
+If you see any error please check [issues](https://github.com/JaidedAI/EasyOCR/issues).
 
 Trainer notebook:
 
