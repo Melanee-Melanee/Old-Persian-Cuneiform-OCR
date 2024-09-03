@@ -83,7 +83,7 @@ aim ;yanm;jDiyaMiy;
 
 aitmiy ; iiaTuv
 
-## At the next step, you can translate that Old Persian transcription to modern languages by [Chat-GPT](https://chatgpt.com/):
+## At the next stage, you can translate that Old Persian transcription to modern languages by [Chat-GPT](https://chatgpt.com/):
 
 Translate to Modern Persian:
 
