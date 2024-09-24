@@ -49,7 +49,7 @@ https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Tesseract
 
 Please replace ```myLang.traineddata``` file in this directory: `/usr/share/tesseract-ocr/4.00/tessdata`
 
-This [tesseract](https://github.com/tesseract-ocr/tesseract) pre-trained OCR model translates Old Persian cuneiform to English transcription and is developed by [S. Muhammad Hossein Mousavi](https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
+This [tesseract](https://github.com/tesseract-ocr/tesseract) pre-trained OCR model converts Old Persian cuneiform to English transcription and is developed by [S. Muhammad Hossein Mousavi](https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
 ).
 
 
@@ -83,7 +83,7 @@ aim ;yanm;jDiyaMiy;
 
 aitmiy ; iiaTuv
 
-## At the next stage, you can translate that Old Persian transcription to modern languages by [Chat-GPT](https://chatgpt.com/):
+## At the next stage, we can translate that Old Persian transcription to modern languages by [Chat-GPT](https://chatgpt.com/):
 
 Translate to Modern Persian:
 
