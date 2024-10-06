@@ -8,11 +8,11 @@ eBL has developed models for Babylonian cuneiform but I am going to develop my m
 
 ## Three OCR models have been developed in this repository:
 - ``` yolo_cnn_old_persian ```
-- ``` tessearct_old_persian ```
+- ``` tesseract_old_persian ```
 - ``` easyocr_old_persian ```
 ## Current status of these 3 OCR models:
 - ``` yolo_cnn_old_persian ``` : is not completed yet.
--  ``` tessearct_old_persian ``` is completed.
+-  ``` tesseract_old_persian ``` is completed.
 -  ``` easyocr_old_persian ``` is completed but needs more optimization and real data.
 
 
@@ -43,7 +43,7 @@ To use saved model please create the ```root``` of your machine like below struc
 
 
 
-## tessearct_old_persian:
+## tesseract_old_persian:
 
 https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/main/Tesseract_Old_Persian_OCR.ipynb
 
