@@ -52,7 +52,7 @@ This [tesseract](https://github.com/tesseract-ocr/tesseract) pre-trained OCR mod
 
 Notebook: https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/tesseract_old_persian/Tesseract_Old_Persian_OCR.ipynb
 
-Please replace ```myLang.traineddata``` file in this directory: `/usr/share/tesseract-ocr/4.00/tessdata`
+Please replace ```op.traineddata``` file in this directory: `/usr/share/tesseract-ocr/4.00/tessdata`
 
 
 
