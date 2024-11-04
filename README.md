@@ -95,7 +95,7 @@ aitmiy ; iiaTuv
 That is what I am saying.”
 
 
-### Translate to Modern Persian:
+### Translate to modern Persian:
 
 
 
