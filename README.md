@@ -88,6 +88,9 @@ aitmiy ; iiaTuv
 
 ## At the next stage, we can translate that Old Persian transcription to modern languages by [Chat-GPT](https://chatgpt.com/):
 
+(Prompt: Can you translate this Old Persian (achaemenid) English transcription to modern English in one paragraph?)
+
+
 Translate to Modern Persian:
 
 
