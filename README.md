@@ -90,7 +90,6 @@ aitmiy ; iiaTuv
 
 (Prompt: Can you translate this Old Persian (achaemenid) English transcription to modern English in one paragraph?)
 
-Translate to Modern English:
 
 “This is me, Dariush king; By the grace of Ahura Mazda, I have built this; I founded this empire and made it strong. May Ahuramazda protect me and my kingdom; may it last forever; and it would be safe from lies; that is what I did;
 That is what I am saying.”
