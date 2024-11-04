@@ -88,7 +88,7 @@ aitmiy ; iiaTuv
 
 ## At the next stage, we can translate that Old Persian transcription to modern languages by [Chat-GPT](https://chatgpt.com/):
 
-(Prompt: Can you translate this Old Persian (achaemenid) English transcription to modern English in one paragraph?)
+Prompt: Can you translate this Old Persian (achaemenid) English transcription to modern English in one paragraph?
 
 
 “This is me, Dariush king; By the grace of Ahura Mazda, I have built this; I founded this empire and made it strong. May Ahuramazda protect me and my kingdom; may it last forever; and it would be safe from lies; that is what I did;
