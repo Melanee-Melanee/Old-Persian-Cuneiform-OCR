@@ -131,7 +131,9 @@ This repository is under [CC-BY-NC](https://github.com/Melanee-Melanee/Old-Persi
 - Shaghayegh Rahmani
 
 
-If you would like to support financially this project, you can use this link. 
+If you would like to support financially this project, you can use this link:
+
+https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/other/Financial.md
 
 
 
