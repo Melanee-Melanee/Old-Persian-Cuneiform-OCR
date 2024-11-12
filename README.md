@@ -127,6 +127,8 @@ This repository is under [CC-BY-NC](https://github.com/Melanee-Melanee/Old-Persi
 ## Financial sponsers
 
 - Shaghayegh Rahmani (Melanee)
+- Dr Zohre Akbari
+- 
 
 
 If you would like to support financially this project, you can use this link:
