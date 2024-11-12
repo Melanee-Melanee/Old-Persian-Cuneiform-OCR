@@ -115,7 +115,7 @@ That is what I am saying.”
 
 I wrote an [article](https://www.researchgate.net/publication/382528886_Translating_Old_Persian_cuneiform_by_artificial_intelligence_AI) as a tiny report for what I have done for this project till now.
 
-## Notice
+## Contact
 
 This repository is still under developing. For contributing contact me by email: melaneepython@gmail.com 
 
