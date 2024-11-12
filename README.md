@@ -119,7 +119,6 @@ I wrote an [article](https://www.researchgate.net/publication/382528886_Translat
 
 This repository is still under developing. For contributing contact me by email: melaneepython@gmail.com 
 
-To create pull requests for this repository please choose just these branches: issue, refactor and feature.
 
 
 ## License
@@ -127,7 +126,7 @@ This repository is under [CC-BY-NC](https://github.com/Melanee-Melanee/Old-Persi
 
 ## Financial sponsers
 
-- Shaghayegh Rahmani
+- Shaghayegh Rahmani (Melanee)
 
 
 If you would like to support financially this project, you can use this link:
