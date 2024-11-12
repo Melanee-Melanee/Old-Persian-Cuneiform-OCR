@@ -131,7 +131,9 @@ This repository is still under developing. For contributing contact me by email:
 
 - Shaghayegh Rahmani (Melanee)
 - Dr Zohre Akbari
-- 
+- Unkown sponser
+- Unkown sponser
+- Unkown sponser
 
 
 If you would like to support this project financially, you can use this link:
