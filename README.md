@@ -123,8 +123,15 @@ This repository is still under developing. For contributing contact me by email:
 To create pull requests for this repository please choose just these branches: issue, refactor and feature.
 
 
-## LICENSE
+## License
 This repository is under [CC-BY-NC](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/LICENSE-CC-BY-NC) license and any commercial use is prohibited. 
+
+## Financial sponsers
+
+- Shaghayegh Rahmani
+
+
+If you would like to support financially this project, you can use this link. 
 
 
 
