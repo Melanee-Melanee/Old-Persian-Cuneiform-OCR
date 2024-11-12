@@ -134,7 +134,7 @@ This repository is still under developing. For contributing contact me by email:
 - 
 
 
-If you would like to support financially this project, you can use this link:
+If you would like to support this project financially, you can use this link:
 
 https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/other/Financial.md
 
