@@ -130,10 +130,10 @@ This repository is still under developing. For contributing contact me by email:
 ## Financial sponsers (Donate)
 
 - Shaghayegh Rahmani (Melanee)
-- Dr Zohre Akbari
-- Unkown sponser
-- Unkown sponser
-- Unkown sponser
+- Dr. Zohre Akbari
+- Hassan Ghaed
+- 4 Unkown sponsers
+
 
 
 If you would like to support this project financially, you can use this link:
