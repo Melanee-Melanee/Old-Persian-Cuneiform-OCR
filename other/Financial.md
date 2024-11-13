@@ -1,4 +1,4 @@
-# Financial support:
+# Donate:
 
 ## شماره کارت:
 
