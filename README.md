@@ -127,7 +127,7 @@ This repository is still under developing. For contributing contact me by email:
 
 
 
-## Financial sponsers
+## Financial sponsers (Donate)
 
 - Shaghayegh Rahmani (Melanee)
 - Dr Zohre Akbari
