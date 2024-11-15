@@ -1,7 +1,7 @@
 ## The aim of this repository is creating an OCR model (convert image to text) for Old Persian Cuneiform 
 
 This repository is part of [
-Electronic Old Persian Library](https://github.com/Electronic-Old-Persian-Library) organization.
+Electronic Old Persian Library](https://github.com/Electronic-Old-Persian-Library) organization and inspired from [eBL](https://github.com/ElectronicBabylonianLiterature/generic-documentation)  project.
 
 
 
