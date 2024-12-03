@@ -46,7 +46,7 @@ To use saved model please create the ```root``` of your machine like below struc
 
 
 
-This [tesseract](https://github.com/tesseract-ocr/tesseract) pre-trained OCR model converts Old Persian cuneiform to English transcription and is developed by [S. Muhammad Hossein Mousavi](https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
+This [tesseract](https://github.com/tesseract-ocr/tessdata_contrib) pre-trained OCR model converts Old Persian cuneiform to English transcription and is developed by [S. Muhammad Hossein Mousavi](https://github.com/SeyedMuhammadHosseinMousavi/Extracting-Old-Persian-Cuneiform/tree/main
 ).
 
 Notebook: https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR/blob/master/tesseract_old_persian/Tesseract_Old_Persian_OCR.ipynb
