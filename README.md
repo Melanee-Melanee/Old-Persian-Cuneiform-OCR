@@ -129,7 +129,6 @@ This repository is still under developing. For contributing contact me by email:
 
 ## Financial sponsers (Donate)
 
-- Shaghayegh Rahmani (Melanee)
 - Dr. Zohre Akbari
 - Dr. Hassan Ghaed
 - [Amirhossein Khajehpour](https://github.com/radni)
