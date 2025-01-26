@@ -1,11 +1,10 @@
 # Donate:
 
-## شماره کارت:
+## 1- Card Number:
 
-## 6362 1411 1053 2067
+ 6362 1411 1053 2067
 
 
-## بانک آینده به نام شقایق رحمانی
 
 </br>
 
@@ -21,7 +20,7 @@
 
 
 
-## Cryptocurrency
+## 2- Cryptocurrency
 
 Tron (TRC20) wallet address:
 
