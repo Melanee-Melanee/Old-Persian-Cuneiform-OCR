@@ -9,11 +9,11 @@
 
 2. Environment Setup: Install necessary libraries and import them.
 
-3. Text detection: Train a [YOLOv8](https://docs.ultralytics.com/models/yolov8/) model to detect characters in the dataset.
+3. Text detection: Train the [YOLOv8](https://docs.ultralytics.com/models/yolov8/) model to detect characters in the dataset.
 
 4. Text recognition: Train a CNN model to recognise characters.
 
-5. Inference: Use YOLO for character detection and the CNN model for recognition on the custom image. 
+5. Inference: Use YOLOv8 for character detection and the CNN model for recognition on the custom image. 
 
 6. Visualization: Display detected and recognized text on the custom image.
 
