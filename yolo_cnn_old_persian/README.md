@@ -9,7 +9,7 @@
 
 2. Environment Setup: Install necessary libraries and import them.
 
-3. Text detection: Train a YOLO model to detect characters in the dataset.
+3. Text detection: Train a [YOLOv8](https://docs.ultralytics.com/models/yolov8/) model to detect characters in the dataset.
 
 4. Text recognition: Train a CNN model to recognise characters.
 
